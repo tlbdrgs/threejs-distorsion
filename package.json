@@ -1,0 +1,22 @@
+{
+  "name": "particles",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.6"
+  },
+  "dependencies": {
+    "@theatre/core": "^0.7.2",
+    "@theatre/studio": "^0.7.2",
+    "glslify-bundle": "^5.1.1",
+    "lil-gui": "^0.20.0",
+    "three": "^0.180.0",
+    "vite-plugin-glsl": "^1.5.1"
+  }
+}
