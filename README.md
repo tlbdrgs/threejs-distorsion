@@ -3,7 +3,6 @@
 A smooth **scroll-based distortion and shader experiment** built with [Three.js](https://threejs.org/).  
 As you scroll, images transition and distort beautifully using a **custom GLSL pass**.
 
-![Preview](./bg.jpg)
 
 ---
 
